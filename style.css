@@ -30,7 +30,6 @@ h1{
   color: white;
   display: flex;
   align-items: center;
-  /* justify-content: flex-start; */
   text-shadow: 4px 4px 5px orangered;
   margin: 10px;
 }
@@ -50,18 +49,7 @@ h1{
   justify-content: space-around;
 }
 
-/* .beer {
-  background-color:black;
-  padding: 30px;
-  margin: 10px;
-  font-size: 20px;
-  text-decoration: none;
-  text-align: center;
-} */
-
-
 main{
-  /* background-color: blueviolet;   */
   grid-area: main;
   margin-left: 100px;
   margin-right:100px;
@@ -96,7 +84,6 @@ aside{
 
 .text{
   text-align: center;
-  /* padding-right: 529px; */
   display: flex;
   justify-content: space-around;
 }
@@ -108,17 +95,6 @@ aside{
   font-size: 20pt;
   color: orangered;
 }
-
-
-/* .h5{
-  text-align: center;
-  padding-left: 529px;
-}
-.p2{
-  text-align: center;
-  padding-left: 529px;
-  
-} */
 
 .caixinha{
   width: 250px;
@@ -134,7 +110,6 @@ aside{
 .btn{
   border: 2px solid ;
   background-color: orangered;
-  /* color: black;'' */
   padding: 20px 82px;
   font-size: 130%;
   cursor: pointer;
@@ -218,7 +193,7 @@ h5{
   font-size: 15px;
   align-items: center;
   justify-content: center; 
-  margin: 22px
+  margin: 22px;
 }
 .footers{
   background-color: black;
@@ -246,25 +221,3 @@ h5{
   display: flex;
   justify-content: space-around;
 }
-
-/* .beers a {
-  color: white;
-  text-decoration: none;
-  display: flex;
-  align-items: center; */
-  
-  /* justify-content: space-around; */
-  /* text-decoration: none; */
-}
-/* p{
-  font-size: 18px;
-  margin: 0;
-  
-}
-
-.JBL{
-  text-align: left;
-} */ 
-
-
-
